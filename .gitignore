@@ -128,4 +128,8 @@ package-lock.json
 .vs
 
 # Android memory profiler files
+<<<<<<< HEAD
 *.hprof
+=======
+*.hprof
+>>>>>>> fc5b241d8813e35b9e2a67e3fa972649eaf7a842
